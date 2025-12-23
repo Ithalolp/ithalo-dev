@@ -2,7 +2,7 @@
 <p align="center">
   💻 Desenvolvedor Full Stack | Focado na prática e no aprendizado constante
 </p>
-
+---
 ## 👨‍💻 Sobre Mim
 
 Sou um estudante de tecnologia que acredita que a melhor forma de aprender é construindo. Não busco fórmulas mágicas, busco entender a lógica.
