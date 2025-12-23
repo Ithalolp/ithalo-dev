@@ -1,6 +1,6 @@
-<h1 align="center">Ivo Melo</h1>
+<h1 align="center">Antonio Ithalo</h1>
 <p align="center">
-  Programador Full Stack • Criando coisas que funcionam
+  Programador Full Stack
 </p>
 
 <p align="center">
